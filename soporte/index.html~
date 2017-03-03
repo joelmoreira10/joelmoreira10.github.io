@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+	<title>Ayuda y soporte</title>
+</head>
+<body>
+<header>
+	<h1>Ubblyhost - (soporte)</h1>
+
+</header>
+<section class="cd-faq">
+	<ul class="cd-faq-categories">
+		<li><a class="selected" href="#basics">Basico</a></li>
+		<li><a href="#mobile">Administración</a></li>
+		<li><a href="#account">Inconvenientes</a></li>
+		<li><a href="#payments">Pagos</a></li>
+		<li><a href="#privacy">Privacy</a></li>
+		<li><a href="#delivery">Delivery</a></li>
+	</ul> <!-- cd-faq-categories -->
+
+	<div class="cd-faq-items">
+		<ul id="basics" class="cd-faq-group">
+			<li class="cd-faq-title"><h2>Basico</h2></li>
+			<li>
+				<a class="cd-faq-trigger" href="#0">Por que los precios son tan bajos?</a>
+				<div class="cd-faq-content">
+					<p>Ofrecemos unos precios bajisimos y mucha ram porque somos "hosting reseller", es decir, contratamos servidores fisicos, y los convertimos en hosting de minecraft y teamspeak a nuestro gusto, al ser hosting reseller obtenemos ofertas y beneficios en servidores en mas de 3 empresas con servidores propios, por lo que es mucho mas facil reducir los costos y dar un servicio de calidad.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">como alquilo?</a>
+				<div class="cd-faq-content">
+					<p>Es muy facil! eliges el plan que mas te sirva, te pones en contacto con nosotros por correo: soporte@ubblyhost.me, te enviamos la información para pagar, y te damos el servicio en menos de 24 horas!</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Que panel ofrecen?</a>
+				<div class="cd-faq-content">
+					<p>El panel que damos es McMyAdmin 2, un panel tan completo y simple de usar como multicraft.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Ya pague, pero todavía no tengo mi server</a>
+				<div class="cd-faq-content">
+					<p>Las entregas de los servidores siempre se realizan antes de las 24 horas despues de la recepción del pago, de no ser asi contactanos a: soporte@ubblyhost.me</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+		</ul> <!-- cd-faq-group -->
+
+		<ul id="mobile" class="cd-faq-group">
+			<li class="cd-faq-title"><h2>Administración</h2></li>
+			<li>
+				<a class="cd-faq-trigger" href="#0">Como accedo a los datos de mi servidor?</a>
+				<div class="cd-faq-content">
+					<p>Se te enviaran todos los datos del servidor una vez que se verifique el pago, entre esos datos estaran: la url del panel, datos del FTP, ip del servidor, cuenta de usuario.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">como uso filezilla (FTP)?</a>
+				<div class="cd-faq-content">
+					<p>encontraras toda la información necesaria en la guia de uso: http://ubblyhost.me/MANUAL.pdf</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">como cambio la versión del server?</a>
+				<div class="cd-faq-content">
+					<p>puedes cambiar la versión tu mismo subiendo el archivo spigot.jar en la versión que deseas en los archivos de tu servidor en filezilla, luego desde el panel debes reiniciar el server para que los cambios se apliquen.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+		</ul> <!-- cd-faq-group -->
+
+		<ul id="account" class="cd-faq-group">
+			<li class="cd-faq-title"><h2>Inconvenientes</h2></li>
+			<li>
+				<a class="cd-faq-trigger" href="#0">Puedo recibir un reembolso?</a>
+				<div class="cd-faq-content">
+					<p>No, una vez entregado el servidor no se puede hacer ningún tipo de reembolso.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Que pasa si hay un problema?</a>
+				<div class="cd-faq-content">
+					<p>En caso de un problema tecnico, te podemos dar entre 5 y 15 dias extra gratis de host, es decir, si debias pagar el 5/12 pagarias el 10/12 o 15/12, dependiendo del problema.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">puedo darle el servidor a un amigo?</a>
+				<div class="cd-faq-content">
+					<p>No, las cuentas Ubblyhost son unicamente para el usuario que contrata el servicio por primera vez, si nos damos cuenta de que ya no administras el servidor lo borraremos y cancelaremos el hosting aunque estubiese pago.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Me olvide la contraseña del panel, que debo hacer?</a>
+				<div class="cd-faq-content">
+					<p>Si te olvidas de la contraseña del panel debes ponerte en contacto con nosotros para poder darte una nueva o reinstalarte el servidor por completo, (dependiendo del caso).</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+		</ul> <!-- cd-faq-group -->
+
+		<ul id="payments" class="cd-faq-group">
+			<li class="cd-faq-title"><h2>Pagos</h2></li>
+			<li>
+				<a class="cd-faq-trigger" href="#0">como puedo renovar mi servicio el siguiente mes?</a>
+				<div class="cd-faq-content">
+					<p>tal como lo hiciste cuando contrataste, envias la misma cantidad de dinero y nos avisas por email.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Que metodos de pago puedo usar?</a>
+				<div class="cd-faq-content">
+					<p>Tratamos de aceptar varios metodos de pago para hacerte mas facil todo, de momento aceptamos: Rapipago y pagofacil (Argentina), Abitab y Redpagos (Uruguay). RUT (Chile). Paysafecard y PayPal (Cualquier pais)</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Puedo pagar por paygol (sms)?</a>
+				<div class="cd-faq-content">
+					<p>No, paygol es una estafa, se queda con mas del 60% del dinero, por ejemplo, si alquilas un host de 5 dolares, apenas nos llegarian unos 2 dolares o menos. y en muchos casos ni llega el dinero. Puedes pagar usando una Paysafecard (tarjeta prepaga que venden en cualquier local de videojuegos o tecnologia) o puedes pedirle a un amigo que pague por ti con su PayPal.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+		</ul> <!-- cd-faq-group -->
+
+		<ul id="privacy" class="cd-faq-group">
+			<li class="cd-faq-title"><h2>Privacidad</h2></li>
+			<li>
+				<a class="cd-faq-trigger" href="#0">Tienen antiDDOS?</a>
+				<div class="cd-faq-content">
+					<p>Si, contamos con antiDDOS, nadie puede tirar tu servidor, pero esto no evitara el ingreso de bots, para ello debes usar AntiBotUltra.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Si no pago, que pasara con mis archivos?</a>
+				<div class="cd-faq-content">
+					<p>Si no pagas, el dia en que se deba renovar el servicio se borrara por completo todo y no se podra recuperar nada.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Que procesador,discos y conexión tienen?</a>
+				<div class="cd-faq-content">
+					<p>Todos los planes cuentan con 200Mbps de conexión minima, Discos SSD para que los mundos carguen mas rapido, y usamos procesadores Intel Xeon</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Tienen un server demo?</a>
+				<div class="cd-faq-content">
+					<p>No exactamente, no tenemos un servidor oficial, pero en la sección "Clientes felices" puedes ver los servidores de algunos de nuestros clientes.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+		</ul> <!-- cd-faq-group -->
+
+		<ul id="delivery" class="cd-faq-group">
+			<li class="cd-faq-title"><h2>Delivery</h2></li>
+			<li>
+				<a class="cd-faq-trigger" href="#0">Como se que no son estafadores?</a>
+				<div class="cd-faq-content">
+					<p>Crees que nos pondriamos a responder todas estas preguntas si fuera una estafa?</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">en que cosas me puede ayudar el soporte?</a>
+				<div class="cd-faq-content">
+					<p>Por ejemplo: instalación de versiones, ayuda con el uso de filezilla o el panel, y solución de problemas tecnicos</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Puedo trabajar con ustedes?</a>
+				<div class="cd-faq-content">
+					<p>Cuando recién comenzabamos con la empresa, solicitamos ayuda en varios grupos de 15, 30 y 45mil miembros y nadie nos quizo ayudar, y ahora que la empresa comenzo a crecer muchos nos ofrecen ayuda, asi que la respuesta es no gracias, el staff que tenemos son los pocos que nos ayudaron desde el principio.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Por que la instalación de mi servidor demora hasta 24hrs?</a>
+				<div class="cd-faq-content">
+					<p>Por que no tenemos un sistema de ventas automatico, las instalaciónes y entregas son manuales, y no queremos un sistema automatico porque para eso hay que mantener los servidores mientras no se venden, entonces perderiamos dinero, preferimos crear los servidores cuando alguien paga.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Los servidores son de ustedes o no?</a>
+				<div class="cd-faq-content">
+					<p>Si, cuando hablamos de "mantener los servidores" nos referimos a los servidores fisicos que alquilamos a 3 distintas empresas para crear servidores de minecraft, los servidores de minecraft que entregamos son instalados por nosotros en los servidores fisicos que contratamos.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Los precios pueden cambiar?</a>
+				<div class="cd-faq-content">
+					<p>Si, pero los viejos clientes siempre pagaran lo que pagaron la primera vez, los precios cambian unicamente para los nuevos clientes.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Tienen IP´s de letras?</a>
+				<div class="cd-faq-content">
+					<p>Si, pero son IP´s adicionales, puedes solicitar ese tipo de ip luego de recibir tu servidor.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Puedo usar bungeecord?</a>
+				<div class="cd-faq-content">
+					<p>Unicamente lo puedes usar si lo tienes instalado en otro hosting, el panel que damos no permite usar bungeecord correctamente.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">que pasa si no reciben mi dinero?</a>
+				<div class="cd-faq-content">
+					<p>En caso de que no recibamos tu pago deberas enviar varias fotos del ticket (recibo) del envio del dinero por correo, e incluso se te podra solicitar un video y se analizara todo con detalle. En caso de que pagues por paypal y no recibamos el dinero se tomara como INTENTO DE ESTAFA.</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+<li>
+				<a class="cd-faq-trigger" href="#0">No puedo importar un mundo en mi servidor</a>
+				<div class="cd-faq-content">
+					<p>debes seguir las instrucciónes de uso como se muestra en nuestra guia: http://ubblyhost.me/MANUAL.pdf</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+<li>
+				<a class="cd-faq-trigger" href="#0">Mi problema no esta en ninguna de estas preguntas</a>
+				<div class="cd-faq-content">
+					<p>Ok, en este caso debes ponerte en contacto con nosotros urgentemente, soporte@ubblyhost.me</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+		</ul> <!-- cd-faq-group -->
+	</div> <!-- cd-faq-items -->
+	<a href="#0" class="cd-close-panel">Close</a>
+</section> <!-- cd-faq -->
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/jquery.mobile.custom.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
